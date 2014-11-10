@@ -1,0 +1,64 @@
+#CMT---> Info: Execute action make => gmake bin=../Linux-x86_64/ 
+#CMT---> Info: calculating dependencies for ../src/MongoDBSvc.cc
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/wrap_python.hpp:50:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/prefix.hpp:13,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/args.hpp:8,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:11,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/MongoDBSvc/MongoDBSvc.h:4,
+                 from ../src/MongoDBSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Python/2.7.6/include/python2.7/pyconfig.h:1179:0: warning: "_POSIX_C_SOURCE" redefined [enabled by default]
+ #define _POSIX_C_SOURCE 200112L
+ ^
+In file included from /usr/include/x86_64-linux-gnu/c++/4.8/bits/os_defines.h:39:0,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:426,
+                 from /usr/include/c++/4.8/exception:37,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SniperException.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/MongoDBSvc/MongoDBSvc.h:4,
+                 from ../src/MongoDBSvc.cc:1:
+/usr/include/features.h:230:0: note: this is the location of the previous definition
+ # define _POSIX_C_SOURCE 200809L
+ ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/wrap_python.hpp:50:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/prefix.hpp:13,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/args.hpp:8,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:11,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/MongoDBSvc/MongoDBSvc.h:4,
+                 from ../src/MongoDBSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Python/2.7.6/include/python2.7/pyconfig.h:1201:0: warning: "_XOPEN_SOURCE" redefined [enabled by default]
+ #define _XOPEN_SOURCE 600
+ ^
+In file included from /usr/include/x86_64-linux-gnu/c++/4.8/bits/os_defines.h:39:0,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:426,
+                 from /usr/include/c++/4.8/exception:37,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SniperException.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/MongoDBSvc/MongoDBSvc.h:4,
+                 from ../src/MongoDBSvc.cc:1:
+/usr/include/features.h:162:0: note: this is the location of the previous definition
+ # define _XOPEN_SOURCE 700
+ ^
+In file included from /home/liujy/juno/offline/Database/DatabaseSvc/MongoDBSvc/MongoDBSvc.h:5:0,
+                 from ../src/MongoDBSvc.cc:1:
+/home/liujy/juno/offline/Database/DatabaseSvc/MongoDBSvc/MongoJson/src/MongoDB.h:4:23: fatal error: DB/IQuery.h: 没有那个文件或目录
+ #include <DB/IQuery.h>
+                       ^
+compilation terminated.
+gmake[2]: *** [../Linux-x86_64/MongoDBSvc.o] 错误 1
+gmake[1]: *** [DatabaseSvccompile] 错误 2
+gmake: *** [all] 错误 2
+#CMT---> Error: execution failed : make

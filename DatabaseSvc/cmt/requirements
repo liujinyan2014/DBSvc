@@ -1,0 +1,8 @@
+package DatabaseSvc
+version v0
+	
+use SniperKernel v*
+
+apply_pattern install_more_includes more=DatabaseSvc
+	
+

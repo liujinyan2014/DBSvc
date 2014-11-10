@@ -1,0 +1,32 @@
+package DatabaseSvc
+
+use Boost v* Externals
+use ROOT  v* Externals
+use Mongo v* Externals
+	
+use SniperKernel v*
+
+use Context v* DataModel
+
+macro_append ROOT_linkopts " -lPyROOT "
+macro_append ROOT_linkopts " -lReflex "
+
+
+
+include_dirs $(DATABASESVCROOT)
+	
+	library DatabaseSvcLib lib/*.cc
+	apply_pattern linker_library library=DatabaseSvcLib
+	
+	library DatabaseSvc components/*.cc
+	apply_pattern component_library library=DatabaseSvc
+	
+
+	
+//	path_remove LD_LIBRARY_PATH "${mysql_home}/lib" WIN32 "" Darwin ""
+//	path_append LD_LIBRARY_PATH "${mysql_home}/lib/mysql" WIN32 "" Darwin ""
+	
+//	path_remove DYLD_LIBRARY_PATH "" Darwin "${mysql_home}/lib"
+//	path_append DYLD_LIBRARY_PATH "" Darwin "${mysql_home}/lib/mysql"
+		
+	apply_pattern install_python_modules

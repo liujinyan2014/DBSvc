@@ -1,0 +1,1137 @@
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/wrap_python.hpp:50:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/prefix.hpp:13,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/args.hpp:8,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:11,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Python/2.7.6/include/python2.7/pyconfig.h:1179:0: warning: "_POSIX_C_SOURCE" redefined [enabled by default]
+ #define _POSIX_C_SOURCE 200112L
+ ^
+In file included from /usr/include/x86_64-linux-gnu/c++/4.8/bits/os_defines.h:39:0,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:426,
+                 from /usr/include/c++/4.8/exception:37,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SniperException.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/usr/include/features.h:230:0: note: this is the location of the previous definition
+ # define _POSIX_C_SOURCE 200809L
+ ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/wrap_python.hpp:50:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/prefix.hpp:13,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/args.hpp:8,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:11,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Python/2.7.6/include/python2.7/pyconfig.h:1201:0: warning: "_XOPEN_SOURCE" redefined [enabled by default]
+ #define _XOPEN_SOURCE 600
+ ^
+In file included from /usr/include/x86_64-linux-gnu/c++/4.8/bits/os_defines.h:39:0,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h:426,
+                 from /usr/include/c++/4.8/exception:37,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SniperException.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/usr/include/features.h:162:0: note: this is the location of the previous definition
+ # define _XOPEN_SOURCE 700
+ ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/handle.hpp:10:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/args_fwd.hpp:10,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/args.hpp:10,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:11,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/cast.hpp: In function ‘void boost::python::detail::assert_castable(boost::type<Target>*)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/cast.hpp:73:20: warning: typedef ‘must_be_a_complete_type’ locally defined but not used [-Wunused-local-typedefs]
+       typedef char must_be_a_complete_type[sizeof(T)];
+                    ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/invoke.hpp:21:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/caller.hpp:16,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/object/function_handle.hpp:8,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/converter/arg_to_python.hpp:19,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/call.hpp:15,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/object_core.hpp:14,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/args.hpp:25,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:11,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/to_python_value.hpp: In member function ‘PyObject* boost::python::detail::registry_to_python_value<T>::operator()(boost::python::detail::registry_to_python_value<T>::argument_type) const’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/to_python_value.hpp:150:52: warning: typedef ‘r’ locally defined but not used [-Wunused-local-typedefs]
+       typedef converter::registered<argument_type> r;
+                                                    ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/data_members.hpp:15:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/class.hpp:17,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:18,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/make_function.hpp: In function ‘boost::python::api::object boost::python::detail::make_function_aux(F, const CallPolicies&, const Sig&, const keyword_range&, NumKeywords)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/make_function.hpp:58:32: warning: typedef ‘assertion’ locally defined but not used [-Wunused-local-typedefs]
+           >::too_many_keywords assertion;
+                                ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/class.hpp:20:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:18,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/init.hpp: In constructor ‘boost::python::init<T0, T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14>::init(const char*, const boost::python::detail::keywords<N>&)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/init.hpp:249:34: warning: typedef ‘assertion’ locally defined but not used [-Wunused-local-typedefs]
+             >::too_many_keywords assertion;
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/init.hpp: In constructor ‘boost::python::init<T0, T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14>::init(const boost::python::detail::keywords<N>&, const char*)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/init.hpp:258:34: warning: typedef ‘assertion’ locally defined but not used [-Wunused-local-typedefs]
+             >::too_many_keywords assertion;
+                                  ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/class.hpp:24:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:18,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/object/pickle_support.hpp: In static member function ‘static void boost::python::detail::pickle_suite_registration::register_(Class_&, ...)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/object/pickle_support.hpp:110:31: warning: typedef ‘error_type’ locally defined but not used [-Wunused-local-typedefs]
+           Class_>::error_type error_type;
+                               ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/tuple/tuple.hpp:33:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/detail/def_helper.hpp:18,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/class.hpp:29,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:18,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/tuple/detail/tuple_basic.hpp: In function ‘typename boost::tuples::access_traits<typename boost::tuples::element<N, boost::tuples::cons<HT, TT> >::type>::const_type boost::tuples::get(const boost::tuples::cons<HT, TT>&)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/tuple/detail/tuple_basic.hpp:228:45: warning: typedef ‘cons_element’ locally defined but not used [-Wunused-local-typedefs]
+   typedef BOOST_DEDUCED_TYPENAME impl::type cons_element;
+                                             ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:18:0,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/class.hpp: In static member function ‘static void boost::python::detail::error::virtual_function_default<T, Fn>::must_be_derived_class_member(const Default&)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/class.hpp:144:68: warning: typedef ‘test1’ locally defined but not used [-Wunused-local-typedefs]
+             typedef typename assertion<is_polymorphic<T> >::failed test1;
+                                                                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/class.hpp:146:81: warning: typedef ‘test2’ locally defined but not used [-Wunused-local-typedefs]
+             typedef typename assertion<is_member_function_pointer<Fn> >::failed test2;
+                                                                                 ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:22:0,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/def.hpp: In function ‘void boost::python::detail::def_from_helper(const char*, const F&, const Helper&)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/def.hpp:40:19: warning: typedef ‘assertion’ locally defined but not used [-Wunused-local-typedefs]
+           >::type assertion;
+                   ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/bind/bind.hpp:29:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/bind.hpp:22,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/exception_translator.hpp:10,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:28,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/bind/arg.hpp: In constructor ‘boost::arg<I>::arg(const T&)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/bind/arg.hpp:37:22: warning: typedef ‘T_must_be_placeholder’ locally defined but not used [-Wunused-local-typedefs]
+         typedef char T_must_be_placeholder[ I == is_placeholder<T>::value? 1: -1 ];
+                      ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:41:0,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/make_constructor.hpp: In function ‘boost::python::api::object boost::python::detail::make_constructor_aux(F, const CallPolicies&, const Sig&, const keyword_range&, NumKeywords)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/make_constructor.hpp:186:32: warning: typedef ‘assertion’ locally defined but not used [-Wunused-local-typedefs]
+           >::too_many_keywords assertion;
+                                ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/mpl/aux_/integral_wrapper.hpp:22:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/mpl/int.hpp:20,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/type_traits/detail/template_arity_spec.hpp:10,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/type_traits/detail/bool_trait_def.hpp:14,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/type_traits/is_same.hpp:31,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/type_traits/same_traits.hpp:13,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/cast.hpp:10,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/handle.hpp:10,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/args_fwd.hpp:10,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python/args.hpp:10,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/python.hpp:11,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/Property.h:5,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/PropertyMgr.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/DLElement.h:4,
+                 from /home/liujy/juno/sniper/InstallArea/include/SniperKernel/SvcBase.h:4,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:4,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In function ‘void boost::function_requires(Model*)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check45’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:45:7: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+       BOOST_CONCEPT_ASSERT((Model));
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::AdaptableGenerator<Func, Return>::~AdaptableGenerator()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check453’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:453:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Convertible<result_type, Return>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::AdaptableUnaryFunction<Func, Return, Arg>::~AdaptableUnaryFunction()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check465’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:465:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Convertible<result_type, Return>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check466’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:466:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Convertible<Arg, argument_type>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::AdaptableBinaryFunction<Func, Return, First, Second>::~AdaptableBinaryFunction()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check484’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:484:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Convertible<result_type, Return>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check485’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:485:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Convertible<First, first_argument_type>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check486’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:486:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Convertible<Second, second_argument_type>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::InputIterator<TT>::~InputIterator()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check517’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:517:9: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+         BOOST_CONCEPT_ASSERT((SignedInteger<difference_type>));
+         ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check518’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:518:9: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+         BOOST_CONCEPT_ASSERT((Convertible<iterator_category, std::input_iterator_tag>));
+         ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::ForwardIterator<TT>::~ForwardIterator()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check551’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:548:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Convertible<
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::BidirectionalIterator<TT>::~BidirectionalIterator()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check579’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:576:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Convertible<
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::RandomAccessIterator<TT>::~RandomAccessIterator()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check609’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:606:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Convertible<
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::Container<C>::~Container()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check653’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:653:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((InputIterator<const_iterator>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::Mutable_Container<C>::~Mutable_Container()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check681’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:680:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check683’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:683:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((InputIterator<iterator>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::ForwardContainer<C>::~ForwardContainer()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check703’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:700:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::Mutable_ForwardContainer<C>::~Mutable_ForwardContainer()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check716’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:713:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::ReversibleContainer<C>::~ReversibleContainer()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check731’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:729:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check733’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:733:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((BidirectionalIterator<const_reverse_iterator>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::Mutable_ReversibleContainer<C>::~Mutable_ReversibleContainer()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check755’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:755:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Mutable_BidirectionalIterator<iterator>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check756’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:756:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Mutable_BidirectionalIterator<reverse_iterator>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::RandomAccessContainer<C>::~RandomAccessContainer()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check776’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:773:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::Mutable_RandomAccessContainer<C>::~Mutable_RandomAccessContainer()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check800’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:800:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Mutable_RandomAccessIterator<typename self::iterator>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check801’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:801:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((Mutable_RandomAccessIterator<typename self::reverse_iterator>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp: In destructor ‘boost::AssociativeContainer<C>::~AssociativeContainer()’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check905’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:905:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((BinaryPredicate<key_compare,key_type,key_type>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check908’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept_check.hpp:908:11: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+           BOOST_CONCEPT_ASSERT((BinaryPredicate<value_compare,value_type_,value_type_>));
+           ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/range/algorithm/equal.hpp: In function ‘bool boost::range::equal(const SinglePassRange1&, const SinglePassRange2&)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check172’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/range/concepts.hpp:92:45: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+     #define BOOST_RANGE_CONCEPT_ASSERT( x ) BOOST_CONCEPT_ASSERT( x )
+                                             ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/range/algorithm/equal.hpp:172:13: note: in expansion of macro ‘BOOST_RANGE_CONCEPT_ASSERT’
+             BOOST_RANGE_CONCEPT_ASSERT(( SinglePassRangeConcept<const SinglePassRange1> ));
+             ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check173’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/range/concepts.hpp:92:45: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+     #define BOOST_RANGE_CONCEPT_ASSERT( x ) BOOST_CONCEPT_ASSERT( x )
+                                             ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/range/algorithm/equal.hpp:173:13: note: in expansion of macro ‘BOOST_RANGE_CONCEPT_ASSERT’
+             BOOST_RANGE_CONCEPT_ASSERT(( SinglePassRangeConcept<const SinglePassRange2> ));
+             ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/range/algorithm/equal.hpp: In function ‘bool boost::range::equal(const SinglePassRange1&, const SinglePassRange2&, BinaryPredicate)’:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check185’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/range/concepts.hpp:92:45: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+     #define BOOST_RANGE_CONCEPT_ASSERT( x ) BOOST_CONCEPT_ASSERT( x )
+                                             ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/range/algorithm/equal.hpp:185:13: note: in expansion of macro ‘BOOST_RANGE_CONCEPT_ASSERT’
+             BOOST_RANGE_CONCEPT_ASSERT(( SinglePassRangeConcept<const SinglePassRange1> ));
+             ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:20: warning: typedef ‘boost_concept_check186’ locally defined but not used [-Wunused-local-typedefs]
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/preprocessor/cat.hpp:29:34: note: in definition of macro ‘BOOST_PP_CAT_I’
+ #    define BOOST_PP_CAT_I(a, b) a ## b
+                                  ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/detail/general.hpp:71:7: note: in expansion of macro ‘BOOST_PP_CAT’
+       BOOST_PP_CAT(boost_concept_check,__LINE__)
+       ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/concept/assert.hpp:44:5: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT_FN’
+     BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+     ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/range/concepts.hpp:92:45: note: in expansion of macro ‘BOOST_CONCEPT_ASSERT’
+     #define BOOST_RANGE_CONCEPT_ASSERT( x ) BOOST_CONCEPT_ASSERT( x )
+                                             ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/range/algorithm/equal.hpp:186:13: note: in expansion of macro ‘BOOST_RANGE_CONCEPT_ASSERT’
+             BOOST_RANGE_CONCEPT_ASSERT(( SinglePassRangeConcept<const SinglePassRange2> ));
+             ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsontypes.h:20:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:24,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobj.h:27,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/bulk_operation_builder.h:20,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:28,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/assert_util.h: At global scope:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/assert_util.h:89:22: warning: unused parameter ‘ss’ [-Wunused-parameter]
+         virtual void appendPrefix( std::stringstream& ss ) const { }
+                      ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:24:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobj.h:27,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/bulk_operation_builder.h:20,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:28,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsontypes.h: In function ‘int mongo::canonicalizeBSONType(mongo::BSONType)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsontypes.h:154:21: error: ‘verify’ was not declared in this scope
+             verify(0);
+                     ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/hex.h:23:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/oid.h:24,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:25,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobj.h:27,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/bulk_operation_builder.h:20,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:28,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h: In member function ‘void mongo::StringBuilderImpl<Allocator>::appendDoubleNice(double)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:302:28: warning: there are no arguments to ‘verify’ that depend on a template parameter, so a declaration of ‘verify’ must be available [-fpermissive]
+             verify( z >= 0 );
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:303:33: warning: there are no arguments to ‘verify’ that depend on a template parameter, so a declaration of ‘verify’ must be available [-fpermissive]
+             verify( z < maxSize );
+                                 ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h: In member function ‘mongo::StringBuilderImpl<Allocator>& mongo::StringBuilderImpl<Allocator>::SBNUM(T, int, const char*)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:337:28: warning: there are no arguments to ‘verify’ that depend on a template parameter, so a declaration of ‘verify’ must be available [-fpermissive]
+             verify( z >= 0 );
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:338:33: warning: there are no arguments to ‘verify’ that depend on a template parameter, so a declaration of ‘verify’ must be available [-fpermissive]
+             verify( z < maxSize );
+                                 ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/oid.h:24:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:25,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobj.h:27,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/bulk_operation_builder.h:20,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:28,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/hex.h: In function ‘int mongo::fromHex(char)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/hex.h:34:23: error: ‘verify’ was not declared in this scope
+         verify( false );
+                       ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobj.h:27:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/bulk_operation_builder.h:20,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:28,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h: In member function ‘const char* mongo::BSONElement::codeWScopeCode() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:281:70: error: ‘massert’ was not declared in this scope
+             massert( 16177 , "not codeWScope" , type() == CodeWScope );
+                                                                      ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h: In member function ‘int mongo::BSONElement::codeWScopeCodeLen() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:288:70: error: ‘massert’ was not declared in this scope
+             massert( 16178 , "not codeWScope" , type() == CodeWScope );
+                                                                      ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h: In member function ‘const char* mongo::BSONElement::binData(int&) const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:325:39: error: ‘verify’ was not declared in this scope
+             verify( type() == BinData );
+                                       ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h: In member function ‘mongo::BinDataType mongo::BSONElement::binDataType() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:344:39: error: ‘verify’ was not declared in this scope
+             verify( type() == BinData );
+                                       ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h: In member function ‘const char* mongo::BSONElement::regex() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:351:35: error: ‘verify’ was not declared in this scope
+             verify(type() == RegEx);
+                                   ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h: In member function ‘const char* mongo::BSONElement::dbrefNS() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:426:63: error: ‘uassert’ was not declared in this scope
+             uassert( 10063 ,  "not a dbref" , type() == DBRef );
+                                                               ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h: In member function ‘const mongo::OID& mongo::BSONElement::dbrefOID() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:431:63: error: ‘uassert’ was not declared in this scope
+             uassert( 10064 ,  "not a dbref" , type() == DBRef );
+                                                               ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h: In constructor ‘mongo::BSONElement::BSONElement(const char*, int)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:456:72: error: ‘uassert’ was not declared in this scope
+                     uassert( 10333 ,  "Invalid field name", size != -1 );
+                                                                        ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h: In member function ‘const mongo::BSONElement& mongo::BSONElement::chk(bool) const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:509:83: error: ‘massert’ was not declared in this scope
+             massert(13118, "unexpected or missing type value in BSON object", expr);
+                                                                                   ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobj.h:32:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/bulk_operation_builder.h:20,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:28,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/bufreader.h: In member function ‘void mongo::BufReader::rewind(unsigned int)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/bufreader.h:87:36: error: ‘verify’ was not declared in this scope
+             verify( _pos >= _start );
+                                    ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/bulk_operation_builder.h:20:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:28,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobj.h: In member function ‘void mongo::BSONObj::appendSelfToBufBuilder(mongo::BufBuilder&) const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobj.h:498:31: error: ‘verify’ was not declared in this scope
+             verify( objsize() );
+                               ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/db/jsobj.h:32:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/exceptions.h:21,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:29,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/optime.h: In constructor ‘mongo::OpTime::OpTime(mongo::Date_t)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/optime.h:55:37: error: ‘dassert’ was not declared in this scope
+             dassert( (int)secs >= 0 );
+                                     ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/optime.h: In constructor ‘mongo::OpTime::OpTime(mongo::ReplTime)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/optime.h:59:37: error: ‘dassert’ was not declared in this scope
+             dassert( (int)secs >= 0 );
+                                     ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/optime.h: In constructor ‘mongo::OpTime::OpTime(unsigned int, unsigned int)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/optime.h:64:37: error: ‘dassert’ was not declared in this scope
+             dassert( (int)secs >= 0 );
+                                     ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/optime.h: In copy constructor ‘mongo::OpTime::OpTime(const mongo::OpTime&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/optime.h:69:37: error: ‘dassert’ was not declared in this scope
+             dassert( (int)secs >= 0 );
+                                     ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/db/jsobj.h:38:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/exceptions.h:21,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:29,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjbuilder.h: In member function ‘mongo::BSONObjBuilder& mongo::BSONObjBuilder::append(const mongo::BSONElement&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjbuilder.h:85:30: error: ‘verify’ was not declared in this scope
+             verify( !e.eoo() ); // do not append eoo, that would corrupt us. the builder auto appends when done() is called.
+                              ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjbuilder.h: In member function ‘mongo::BSONObjBuilder& mongo::BSONObjBuilder::appendAs(const mongo::BSONElement&, const mongo::StringData&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjbuilder.h:92:30: error: ‘verify’ was not declared in this scope
+             verify( !e.eoo() ); // do not append eoo, that would corrupt us. the builder auto appends when done() is called.
+                              ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjbuilder.h: In member function ‘mongo::BSONObjBuilder& mongo::BSONObjBuilder::appendObject(const mongo::StringData&, const char*, int)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjbuilder.h:109:29: error: ‘verify’ was not declared in this scope
+             verify( objdata );
+                             ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjbuilder.h: In member function ‘mongo::BSONObj mongo::BSONObjBuilder::obj()’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjbuilder.h:574:65: error: ‘massert’ was not declared in this scope
+             massert( 10335 , "builder does not own memory", own );
+                                                                 ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjbuilder.h: In member function ‘mongo::Labeler mongo::BSONObjBuilder::operator<<(const mongo::Labeler::Label&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjbuilder.h:641:74: error: ‘massert’ was not declared in this scope
+             massert( 10336 ,  "No subobject started", _s.subobjStarted() );
+                                                                          ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/db/jsobj.h:39:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/exceptions.h:21,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:29,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h: In member function ‘mongo::BSONElement mongo::BSONObjIterator::next(bool)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h:64:37: error: ‘verify’ was not declared in this scope
+             verify( _pos <= _theend );
+                                     ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h:74:67: error: ‘massert’ was not declared in this scope
+             massert( 16446, "BSONElement has bad size", esize > 0 );
+                                                                   ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h: In member function ‘mongo::BSONElement mongo::BSONObjIterator::next()’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h:80:37: error: ‘verify’ was not declared in this scope
+             verify( _pos <= _theend );
+                                     ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h: In member function ‘mongo::BSONElement mongo::BSONObjIterator::operator*()’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h:89:37: error: ‘verify’ was not declared in this scope
+             verify( _pos <= _theend );
+                                     ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h: In destructor ‘mongo::BSONIteratorSorted::~BSONIteratorSorted()’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h:103:29: error: ‘verify’ was not declared in this scope
+             verify( _fields );
+                             ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h: In member function ‘mongo::BSONElement mongo::BSONIteratorSorted::next()’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobjiterator.h:113:29: error: ‘verify’ was not declared in this scope
+             verify( _fields );
+                             ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/db/jsobj.h:40:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/exceptions.h:21,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:29,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h: In function ‘int mongo::compareElementValues(const mongo::BSONElement&, const mongo::BSONElement&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:139:26: error: ‘verify’ was not declared in this scope
+             verify( false);
+                          ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h: In member function ‘mongo::BSONObj mongo::BSONElement::embeddedObject() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:177:30: error: ‘verify’ was not declared in this scope
+         verify( isABSONObj() );
+                              ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h: In member function ‘mongo::BSONObj mongo::BSONElement::codeWScopeObject() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:182:38: error: ‘verify’ was not declared in this scope
+         verify( type() == CodeWScope );
+                                      ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h: In member function ‘void mongo::BSONObj::_assertInvalid() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:213:39: error: ‘massert’ was not declared in this scope
+         massert( 10334 , ss.str() , 0 );
+                                       ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h: In member function ‘void mongo::BSONObjBuilderValueStream::endField(const mongo::StringData&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:362:42: error: ‘verify’ was not declared in this scope
+             verify( _fieldName.rawData() );
+                                          ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h: In member function ‘void mongo::BSONObj::toString(mongo::StringBuilder&, bool, bool, int) const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:464:79: error: ‘massert’ was not declared in this scope
+             massert( 10327 ,  "Object does not end with EOO", i.moreWithEOO() );
+                                                                               ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h: In member function ‘int mongo::BSONElement::size(int) const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:517:106: error: ‘massert’ was not declared in this scope
+             massert( 10313 ,  "Insufficient bytes to calculate element size", maxLen == -1 || remain > 3 );
+                                                                                                          ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:548:41: error: ‘verify’ was not declared in this scope
+                 verify( x <= 0x7fffffff );
+                                         ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/db/jsobj.h:40:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/exceptions.h:21,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:29,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h: In member function ‘int mongo::BSONElement::size() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:625:50: error: ‘massert’ was not declared in this scope
+                 massert(10320 , msg.c_str(),false);
+                                                  ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h: In member function ‘void mongo::BSONElement::toString(mongo::StringBuilder&, bool, bool, int) const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:646:53: error: ‘uassert’ was not declared in this scope
+                 uassert(16150, s.str(), full != true);
+                                                     ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h: In member function ‘void mongo::BSONObjBuilder::appendKeys(const mongo::BSONObj&, const mongo::BSONObj&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:957:28: error: ‘verify’ was not declared in this scope
+         verify( ! i.more() );
+                            ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/db/jsobj.h:41:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/exceptions.h:21,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:29,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/ordering.h: In static member function ‘static mongo::Ordering mongo::Ordering::make(const mongo::BSONObj&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/ordering.h:67:67: error: ‘uassert’ was not declared in this scope
+                 uassert( 13103, "too many compound keys", n <= 31 );
+                                                                   ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/db/jsobj.h:43:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/exceptions.h:21,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:29,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson_db.h: In member function ‘std::string mongo::BSONElement::_asCode() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson_db.h:67:42: error: ‘uassert’ was not declared in this scope
+         uassert( 10062 ,  "not code" , 0 );
+                                          ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson_db.h: At global scope:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson_db.h:71:28: warning: unused parameter ‘id’ [-Wunused-parameter]
+     inline BSONObjBuilder& BSONObjBuilderValueStream::operator<<(const DateNowLabeler& id) {
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson_db.h:77:28: warning: unused parameter ‘id’ [-Wunused-parameter]
+     inline BSONObjBuilder& BSONObjBuilderValueStream::operator<<(const NullLabeler& id) {
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson_db.h:83:28: warning: unused parameter ‘id’ [-Wunused-parameter]
+     inline BSONObjBuilder& BSONObjBuilderValueStream::operator<<(const UndefinedLabeler& id) {
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson_db.h:90:28: warning: unused parameter ‘id’ [-Wunused-parameter]
+     inline BSONObjBuilder& BSONObjBuilderValueStream::operator<<(const MinKeyLabeler& id) {
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson_db.h:96:28: warning: unused parameter ‘id’ [-Wunused-parameter]
+     inline BSONObjBuilder& BSONObjBuilderValueStream::operator<<(const MaxKeyLabeler& id) {
+                            ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:38:0,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/mongoutils/str.h: In function ‘bool mongoutils::str::contains(const string&, char)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/mongoutils/str.h:112:29: error: ‘verify’ was not declared in this scope
+             verify(x != '\0'); // this expects c-strings so don't use when looking for NUL bytes
+                             ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:24:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:39,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/goodies.h: In function ‘void mongo::strcpy_s(char*, unsigned int, const char*)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/goodies.h:122:35: error: ‘verify’ was not declared in this scope
+         verify( strlen(src) < len );
+                                   ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:39:0,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h: In function ‘const char* mongo::opToString(int)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:57:84: error: ‘massert’ was not declared in this scope
+             massert( 16141, str::stream() << "cannot translate opcode " << op, !op );
+                                                                                    ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h: In function ‘bool mongo::opIsWrite(int)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:80:21: error: ‘verify’ was not declared in this scope
+             verify(0);
+                     ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h: In member function ‘long long int mongo::MsgData::getCursor()’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:130:36: error: ‘verify’ was not declared in this scope
+             verify( responseTo > 0 );
+                                    ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:39:0,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h: In member function ‘mongo::MsgData* mongo::Message::header() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:162:30: error: ‘verify’ was not declared in this scope
+             verify( !empty() );
+                              ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h: In member function ‘mongo::MsgData* mongo::Message::singleData() const’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:168:65: error: ‘massert’ was not declared in this scope
+             massert( 13273, "single data buffer expected", _buf );
+                                                                 ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h: In member function ‘void mongo::Message::concat()’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:196:29: error: ‘verify’ was not declared in this scope
+             verify( _freeIt );
+                             ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h: In member function ‘mongo::Message& mongo::Message::operator=(mongo::Message&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:215:29: error: ‘verify’ was not declared in this scope
+             verify( empty() );
+                             ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h: In member function ‘void mongo::Message::appendData(char*, int)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:254:29: error: ‘verify’ was not declared in this scope
+             verify( _freeIt );
+                             ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h: In member function ‘void mongo::Message::setData(mongo::MsgData*, bool)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:265:29: error: ‘verify’ was not declared in this scope
+             verify( empty() );
+                             ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h: In member function ‘void mongo::Message::setData(int, const char*, size_t)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/net/message.h:272:29: error: ‘verify’ was not declared in this scope
+             verify( empty() );
+                             ^
+In file included from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6:0,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h: In constructor ‘mongo::ConnectionString::ConnectionString(mongo::ConnectionString::ConnectionType, const string&, const string&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:190:46: error: ‘verify’ was not declared in this scope
+                 verify( _servers.size() == 1 );
+                                              ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h: In constructor ‘mongo::ConnectionString::ConnectionString(const string&, mongo::ConnectionString::ConnectionType)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:218:38: error: ‘verify’ was not declared in this scope
+                 verify( _type == SET );
+                                      ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h: In constructor ‘mongo::ConnectionString::ConnectionString(mongo::ConnectionString::ConnectionType, const string&, const string&, const string&, const string&, const string&, const mongo::BSONObj&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:317:46: error: ‘verify’ was not declared in this scope
+                 verify( _servers.size() == 1 );
+                                              ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h: In member function ‘virtual bool mongo::DBConnector::recv(mongo::Message&)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:572:55: error: ‘verify’ was not declared in this scope
+         virtual bool recv( Message& m ) { verify(false); return false; }
+                                                       ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h: At global scope:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:572:22: warning: unused parameter ‘m’ [-Wunused-parameter]
+         virtual bool recv( Message& m ) { verify(false); return false; }
+                      ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:574:22: warning: unused parameter ‘data’ [-Wunused-parameter]
+         virtual void checkResponse( const char* data, int nReturned, bool* retry = NULL, std::string* targetHost = NULL ) {
+                      ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:574:22: warning: unused parameter ‘nReturned’ [-Wunused-parameter]
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h: In member function ‘virtual bool mongo::DBClientWithCommands::dropCollection(const string&, mongo::BSONObj*)’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:840:65: error: ‘uassert’ was not declared in this scope
+             uassert( 10011 ,  "no collection name", coll.size() );
+                                                                 ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h: In member function ‘mongo::MessagingPort& mongo::DBClientConnection::port()’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:1580:41: error: ‘verify’ was not declared in this scope
+         MessagingPort& port() { verify(p); return *p; }
+                                         ^
+In file included from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/util/hex.h:23:0,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/oid.h:24,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:25,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonobj.h:27,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/bulk_operation_builder.h:20,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:28,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h: In instantiation of ‘void mongo::StringBuilderImpl<Allocator>::appendDoubleNice(double) [with Allocator = mongo::TrivialAllocator]’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:668:42:   required from here
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:302:28: error: ‘verify’ was not declared in this scope
+             verify( z >= 0 );
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:303:33: warning: ‘verify’ was not declared in this scope, and no declarations were found by argument-dependent lookup at the point of instantiation [-fpermissive]
+             verify( z < maxSize );
+                                 ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:302:28: note: ‘verify’ declared here, later in the translation unit
+             verify( z >= 0 );
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h: In instantiation of ‘mongo::StringBuilderImpl<Allocator>& mongo::StringBuilderImpl<Allocator>::SBNUM(T, int, const char*) [with T = int; Allocator = mongo::TrivialAllocator]’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:272:53:   required from ‘mongo::StringBuilderImpl<Allocator>& mongo::StringBuilderImpl<Allocator>::operator<<(int) [with Allocator = mongo::TrivialAllocator]’
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bsonelement.h:501:64:   required from here
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:337:28: error: ‘verify’ was not declared in this scope
+             verify( z >= 0 );
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:338:33: warning: ‘verify’ was not declared in this scope, and no declarations were found by argument-dependent lookup at the point of instantiation [-fpermissive]
+             verify( z < maxSize );
+                                 ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:337:28: note: ‘verify’ declared here, later in the translation unit
+             verify( z >= 0 );
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h: In instantiation of ‘mongo::StringBuilderImpl<Allocator>& mongo::StringBuilderImpl<Allocator>::SBNUM(T, int, const char*) [with T = long long int; Allocator = mongo::TrivialAllocator]’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:284:55:   required from ‘mongo::StringBuilderImpl<Allocator>& mongo::StringBuilderImpl<Allocator>::operator<<(long long int) [with Allocator = mongo::TrivialAllocator]’
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:659:50:   required from here
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:337:28: error: ‘verify’ was not declared in this scope
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:338:33: warning: ‘verify’ was not declared in this scope, and no declarations were found by argument-dependent lookup at the point of instantiation [-fpermissive]
+             verify( z < maxSize );
+                                 ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:337:28: note: ‘verify’ declared here, later in the translation unit
+             verify( z >= 0 );
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h: In instantiation of ‘mongo::StringBuilderImpl<Allocator>& mongo::StringBuilderImpl<Allocator>::SBNUM(T, int, const char*) [with T = long long unsigned int; Allocator = mongo::TrivialAllocator]’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:287:55:   required from ‘mongo::StringBuilderImpl<Allocator>& mongo::StringBuilderImpl<Allocator>::operator<<(long long unsigned int) [with Allocator = mongo::TrivialAllocator]’
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:747:48:   required from here
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:337:28: error: ‘verify’ was not declared in this scope
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:338:33: warning: ‘verify’ was not declared in this scope, and no declarations were found by argument-dependent lookup at the point of instantiation [-fpermissive]
+             verify( z < maxSize );
+                                 ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:337:28: note: ‘verify’ declared here, later in the translation unit
+             verify( z >= 0 );
+                            ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h: In instantiation of ‘mongo::StringBuilderImpl<Allocator>& mongo::StringBuilderImpl<Allocator>::SBNUM(T, int, const char*) [with T = unsigned int; Allocator = mongo::TrivialAllocator]’:
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:275:53:   required from ‘mongo::StringBuilderImpl<Allocator>& mongo::StringBuilderImpl<Allocator>::operator<<(unsigned int) [with Allocator = mongo::TrivialAllocator]’
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/bson-inl.h:747:73:   required from here
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:337:28: error: ‘verify’ was not declared in this scope
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:338:33: warning: ‘verify’ was not declared in this scope, and no declarations were found by argument-dependent lookup at the point of instantiation [-fpermissive]
+             verify( z < maxSize );
+                                 ^
+/home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/bson/util/builder.h:337:28: note: ‘verify’ declared here, later in the translation unit
+             verify( z >= 0 );
+                            ^
+In file included from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/system/system_error.hpp:14:0,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/thread/exceptions.hpp:22,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/thread/lock_types.hpp:12,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/thread/lock_algorithms.hpp:11,
+                 from /home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/thread/locks.hpp:10,
+                 from /home/liujy/mongo-cxx-driver-legacy-1.0.0-rc0/build/install/include/mongo/client/dbclientinterface.h:23,
+                 from /home/liujy/juno/offline/Database/DatabaseSvc/DatabaseSvc/DatabaseSvc.h:6,
+                 from ../src/DatabaseSvc.cc:1:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/system/error_code.hpp: At global scope:
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/system/error_code.hpp:222:36: warning: ‘boost::system::posix_category’ defined but not used [-Wunused-variable]
+     static const error_category &  posix_category = generic_category();
+                                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/system/error_code.hpp:223:36: warning: ‘boost::system::errno_ecat’ defined but not used [-Wunused-variable]
+     static const error_category &  errno_ecat     = generic_category();
+                                    ^
+/home/liujy/juno/ExternalLibs/Boost/1.55.0/include/boost/system/error_code.hpp:224:36: warning: ‘boost::system::native_ecat’ defined but not used [-Wunused-variable]
+     static const error_category &  native_ecat    = system_category();
+                                    ^
+make[2]: *** [../Linux-x86_64/DatabaseSvc.o] 错误 1
+make[1]: *** [DatabaseSvccompile] 错误 2
+make: *** [all] 错误 2

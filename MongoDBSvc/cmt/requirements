@@ -1,0 +1,16 @@
+package MongoDBSvc
+version v0
+
+use SniperKernel v*
+use DatabaseSvc v* Database
+
+use Python v* Externals
+use Mongo v* Externals
+use Boost v* Externals
+use ROOT  v* Externals
+use CLHEP v* Externals
+
+apply_pattern install_more_includes more=MongDBSvc
+
+library MongoDBSvc *.cc
+apply_pattern linker_library library=MongoDBSvc
